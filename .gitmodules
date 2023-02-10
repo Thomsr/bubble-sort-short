@@ -1,0 +1,3 @@
+[submodule "bubble-sort-short/src/components/ArrayComponent"]
+	path = bubble-sort-short/src/components/ArrayComponent
+	url = https://github.com/Thomsr/ArrayComponent.git
